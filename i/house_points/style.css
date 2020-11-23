@@ -1,0 +1,10 @@
+@import url(https://fonts.googleapis.com/css?family=Roboto);
+
+body {
+  font-family: Roboto, sans-serif;
+  background-color:#B4B7B9;
+}
+
+#chart {
+	background-color:#B4B7B9;
+}

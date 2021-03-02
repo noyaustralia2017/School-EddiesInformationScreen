@@ -17,3 +17,5 @@ This is more optimisable on a large screen and better in a portrait view.
 An example username for the admin dashboard is:
 username: tristan.fox
 password: car
+
+Visit an online display at: https://eddiesinfoscreen.000webhostapp.com/index.html

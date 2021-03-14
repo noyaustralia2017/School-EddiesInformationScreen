@@ -1,5 +1,5 @@
 # eddiesinfoscreen
-Eddies Information Screen
+Eddies Information Screen or St Edmund's College Canberra Information Screen
 
 Setting the Information Screen up:
 

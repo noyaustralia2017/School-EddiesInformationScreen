@@ -19,3 +19,8 @@ username: tristan.fox
 password: car
 
 
+Some features of the information screen include:
+- House Point Updated
+- Daily Notices
+- School Social Media grab
+- Quote of the day

@@ -1,5 +1,5 @@
-# EddiesInfoScreen
-Eddies Information Screen or St Edmund's College Canberra Information Screen is a digital information screen that can be placed in reception or other areas of the College and is like an information system that you might see in airports, railway stations etc.
+# EddiesInfoScreen / School Information Screen
+Eddies Information Screen orthe  St Edmund's College Canberra Information Screen is a digital information screen that can be placed in reception or other areas of the College and is like an information system that you might see in airports, railway stations etc.
 
 Setting the Information Screen up:
 

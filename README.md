@@ -25,3 +25,5 @@ Some features of the information screen include:
 - St Edmund's Instagram feed 'grab'
 - Quote of the day
 - Calendar / Upcoming College Events
+
+Visit sec.act.edu.au
